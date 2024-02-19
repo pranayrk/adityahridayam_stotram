@@ -8,6 +8,11 @@
     font-family: 'sanskrit', serif;
 }
 
-p {
-    font-size: 30px;
+.reveal section  {
+font-size: 30px;
+
+}
+
+.reveal blockquote {
+padding: 40px;
 }
